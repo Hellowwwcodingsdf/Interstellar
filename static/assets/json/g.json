@@ -12,6 +12,12 @@
     "categories": ["all"]
   },
   {
+    "name": "Soundcloud",
+    "image": "/assets/media/icons/help_center_googlefonts.png",
+    "link": "https://soundcloud.com/",
+    "categories": ["all"]
+  },
+  {
     "name": "NUTGAMES Ver 1.2",
     "link": "https://interstellar-v3-rose.vercel.app/",
     "image": "/assets/media/icons/request.webp",
