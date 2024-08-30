@@ -66,7 +66,7 @@ img {
 .fixed-nav-bar-right {
    position: absolute;
    top: 50%;
-   transform: translateY(-50%);
+   transform: translateY(-80%);
    text-transform: uppercase;
    font-size: 18px;
    color: var(--text-primary);
