@@ -14,7 +14,7 @@ if (
   const popup = open("about:blank", "_blank");
   if (!popup || popup.closed) {
     alert(
-      "LOGANSNUT IS HERE VER-1.2 AND IS NOW WORKING THANKYOU FOR YOUR SUPPORT----\n\nTOS IS ON THE SITE READ IT!",
+      "LOGANSNUT IS HERE VER-1.3 IS OUR BIGGEST UPDATE YET AND HAS NEW REQUESTED FEAUTURES!!!!!!!!!----\n\nTOS IS ON THE SITE READ IT!",
     );
   } else {
     const doc = popup.document;
