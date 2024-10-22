@@ -14,7 +14,7 @@ if (
   const popup = open("about:blank", "_blank");
   if (!popup || popup.closed) {
     alert(
-      "LOGANSNUT IS HERE VER-1.3 IS OUR BIGGEST UPDATE YET AND HAS NEW REQUESTED FEAUTURES!!!!!!!!!----\n\nTOS IS ON THE SITE READ IT!",
+      "Tree-Studios is here 1.0",
     );
   } else {
     const doc = popup.document;
